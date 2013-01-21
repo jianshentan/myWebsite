@@ -1,0 +1,19 @@
+#nola{}
+
+#nola span, a{
+  color: pink;
+}
+
+#nola td{
+  vertical-align: top;
+  padding-bottom: 10px;
+}
+
+#nola .image{
+  padding-left: 20px;
+}
+
+#nola .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}

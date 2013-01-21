@@ -1,0 +1,80 @@
+body {
+  margin: 0px;
+  font-family:"Source Code Pro", sans-serif;
+  font-size: 10px;
+}
+
+hr {
+  background-color: #BBBBBB;
+  height: 1px;
+  border:none;
+  margin-top:1px;
+  margin-bottom: 1px;
+}
+
+#leftContent{
+  position: fixed;
+}
+
+#leftContent #navbar{
+  /*background-color: #FFCCCC;*/
+  width: 130px;
+  height: 100%;
+}
+
+#leftContent #navbar div{
+  padding: 2px;
+  padding-left: 4px;
+  color: grey;
+}
+
+#leftContent #navbar span{
+  color: grey;
+  text-align: center;
+  padding-left: 4px;
+}
+
+#mainContent{
+  position: absolute;
+  float: left;
+  vertical-align: top;
+  padding-top: 2px;
+  margin-left: 155px;
+  width: 800px;
+}
+
+
+/*--------overlay and dropdownwindow ------- */
+#transparentOverlay {
+  z-index: 1000;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #514D36;
+  -moz-opacity: 0.4;
+	opacity:.40;
+  filter: alpha(opacity=40);
+}
+
+#friendWindow{
+  z-index: 1001;
+  position: absolute;
+  top: 50px;
+  background-color: white;
+  width: 300px;
+  height: 380px;
+  left: 50%;
+  margin-left: -150px; /* this must be the negative half of attr 'width' */
+  margin-top: 0;
+  display: none;
+  text-align: center;
+}
+
+#friendWindow .friendWindowPoem{
+  padding-top: 10px;
+}
+
+

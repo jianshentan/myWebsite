@@ -1,0 +1,86 @@
+#exhibitionTwo
+  script(type='text/javascript', src='/javascripts/exhibitionTwo.js')
+
+  div <b>"Testing Freedom's Temperature"</b>, Beijing, 2012 November 18th
+  div A dual exhibition with <b>Chi Ming</b>, in coorporation with <b>Nikolaus Ellrodt</b>
+  br
+  div click <a href="/assets/exhibitionTwo/exhibitionTwoCatalogue.pdf">here</a> to download the catalogue
+  div featured in VernissageTV: <a href="http://vernissage.tv/blog/2012/12/12/art-openings-beijing-november-2012/">http://vernissage.tv/blog/2012/12/12/art-openings-beijing-november-2012/</a>
+  div featured in ArtLinkArt: <a href="http://www.artlinkart.com/cn/space/exh_yr/049avBtl/98fdAxmj">http://www.artlinkart.com/cn/space/exh_yr/049avBtl/98fdAxmj</a>
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionTwo/exhibitionTwo01.png', width='380')
+      td.description
+        div <em>"It is Atkins and Ai's great privilege to showcase the joint exhibition of Chi Ming and J S Tan, Testing Freedom’s Temperature, in cooperation with Nikolaus Ellrodt. We are fortunate indeed to have Michelle Ho, recently double Emmy award winning documentary producer, as writer and interviewer for this exhibition."</em>
+        br
+        br
+        div Chi Ming (迟明):
+        table#chimingImages
+          tr
+            td
+              #prevImage <
+            td#image
+              img(id='chimingImage', src='/assets/exhibitionTwo/exhibitionTwo_chiming01.png', width='280')
+              #description
+                div#chimingTitle
+                div#chimingSize
+                div#chimingYear
+            td
+              #nextImage >
+
+  br
+  hr
+  br
+
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionTwo/exhibitionTwo03.png', width='600')
+      td.description
+        div some lines
+        div 68 X 134cm
+        div 2011
+        div ink on rice paper, mounted on wooden panel
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionTwo/exhibitionTwo04.png', width='300')
+      td
+        img(class='image', src='/assets/exhibitionTwo/exhibitionTwo05.png', width='300')
+      td.description
+        div (left)
+        div some more lines
+        div 134 X 68cm
+        div 2011
+        br
+        div (right)
+        div and more..
+        div 134 X 68cm
+        div 2011
+  br
+  hr
+  br
+
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionTwo/exhibitionTwo06.png', width='600')
+      td.description
+        div different type of lines
+        div 95 X 160cm
+        div 2011
+        div charcoal on paper, mounted on wooden panel
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionTwo/exhibitionTwo07.png', width='440')
+      td.description
+        div .. and more
+        div 160 X 123cm
+        div 2011
+
+       
+  div *download the catalogue for a more complete representation of the works in the exhibition
+  br

@@ -1,0 +1,22 @@
+#swingSlide{}
+
+#swingSlide span,a{
+  color: pink;
+}
+
+#swingSlide td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#swingSlide .image{
+  padding-left: 20px;
+}
+
+#swingSlide .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+

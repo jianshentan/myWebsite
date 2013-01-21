@@ -1,0 +1,127 @@
+#horseTable{}
+
+#horseTable #horseTableTitleDiv{
+  text-align: center;
+}
+
+#horseTable span, a{
+  color: pink;
+}
+
+#horseTable td{
+  vertical-align: top;
+}
+
+#horseTable .image{
+  padding-left: 20px;
+}
+
+#horseTable .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#horseTable #horseTableGrid{
+  border-spacing: 20px;
+}
+
+#horseTable #horseTableGrid tr td{
+  position: relative; 
+  width: 190px;
+  height: 230px;
+}
+
+#horseTable #horseTableGrid tr td .horseTableGridImage{
+  position:absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+#horseTable #horseTableGrid tr td .horseTableGridCover{
+  z-index: 10;
+  background-color: black;
+  opacity: 0.0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+#horseTable #horseTableGrid .horseTableGridDescription{
+  text-align: center;
+  z-index: 100;
+  opacity: 0.0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  color: white;
+}
+
+#horseTable #horseTableGrid .horseTableGridDescription div{
+  position: relative;
+  margin-top: 100px;
+} 
+
+#horseTable #diagramTable{
+  width: 100%;
+  border-right: 40px;
+}
+
+#horseTable #diagramTable td{
+  position: relative;
+  width: 360px;
+}
+
+#horseTable #diagramTable #gangnamStyle,#gangnamStyleShades{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px; 
+}
+
+#horseTable #diagramTable #gangnamStyleShades{
+  visibility: hidden;
+}
+ 
+#horseTable #diagramTable #hoverShadesOne{
+  position: absolute;
+  width: 30px;
+  height: 38px;
+  background-color: blue;
+  top: 10px;
+  left: 46px;
+  opacity: 0.0;
+}
+
+#horseTable #diagramTable #hoverShadesTwo{
+  position: absolute;
+  width: 70px;
+  height: 100px;
+  background-color: yellow;
+  top: 50px;
+  left: 30px;
+  opacity: 0.0;
+}
+
+#horseTable #diagramTable #hoverShadesThree{
+  position: absolute;
+  width: 100px;
+  height: 140px;
+  background-color: blue;
+  top: 140px;
+  left: 20px;
+  opacity: 0.0;
+}
+
+
+
+
+#horseTable #diagramTable .ortho{
+  padding-left: 40px; 
+}

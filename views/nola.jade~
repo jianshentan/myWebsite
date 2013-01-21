@@ -1,0 +1,71 @@
+#nola
+  script(type='text/javascript', src='/javascripts/nola.js')
+  div <b>NOLA</b>, 2012 fall 
+  br
+  div this piece was made in collaboration with <span id='kevin' class='friend'>Kevin Wiesner</span> and <span id='lukas' class='friend'>Lukas Bentel</span>, the bike & beard master 
+  br
+  hr
+  br
+  div <b>The Battery Conservancy Americas Design Competition - "Draw Up A Chair"</b>
+  div The Battery Conservancy (the “Conservancy”) is a design competition for design professionals and students to design an iconic moveable outdoor seat for The Battery, the 25-acre park at the tip of Manhattan (the “Park”), which welcomes six million visitors each year.
+  br
+  div The design should reflect consideration of the Conservancy's need for:
+  div &nbsp   - Moveable seats that are suitable for outdoor use and a range of activities (eating, lounging, sitting)
+  div &nbsp  - Stackable seats that can be easily stored and locked
+  div &nbsp  - Seats to be suitable for people of different ages, sizes, and abilities
+  div &nbsp  - Seats that incorporate sustainable practices
+  div &nbsp  - Seats that are friendly to the grass-lawn surface of the Park
+  div &nbsp  - Seats that fit into the Park as a whole
+  div &nbsp  - Beautiful, comfortable, and durable seats that are economical to manufacture
+  div &nbsp  - Seats that work well alone or in groups; modular seats are acceptable.
+
+  br
+  hr
+  br
+  div <b> NOLA </b>
+  br
+  div NOLA is first and foremost a fun furniture object. Its iconic form and simple structure create a playful object, that will dot the park with small families of chairs, creating gathering spaces for leisure and conversation.  Our goal is to bring an island of fun into a city that takes itself just a little bit too seriously.
+  br
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/nola/nola01.png', width='800')
+  br
+  hr
+  br
+  div <b> Concept: </b>
+  br
+  div NOLA facilitates a new type of interaction. Because NOLA looks so different from traditional park furniture, it does not carry associations of being static and unmoving. NOLA brings a preschool environment to the park: children, surrounded by bright colorful things, feel no inhibition about picking up an object, to carry anywhere and sit on. Similarly, NOLA wants to be picked up, wants to be moved -- its corner cut-outs make NOLA easy to grip, lift, and carry.  It’s light geometric form makes the chair approachable, and invites park goers to choose how they sit and how they interact with one another. 
+  br
+  hr
+  br
+  div further illustrations:
+
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/nola/nola03.png', height='300')
+      td
+        img(class='image', src='/assets/nola/nola05.png', height='300')
+    tr
+      td(colspan='2')
+        img(class='image', src='/assets/nola/nola04.png', width='710')
+  br 
+  hr
+  br
+  div <b> Construction: </b>
+  br
+  div NOLA is made of four milled boards of light-colored wood, perhaps a clear atlantic white cedar, and eight corner joints of red weather resistant rubber molded over a spring steel strip.  These corner pieces slot into the wooden boards, and are secured by bolts that enter from the board edges.  The spring steel cores of the corner joints have cut-outs to receive these bolts.  These bolts are then capped with polished metal discs as a surface detail.  Using only two different parts -- board faces and corner joints -- with only mechanical fasteners, makes the chair very easy to assemble/disassemble, and to ship
+  br
+  hr
+  br
+  div Orthographic:
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/nola/nola02.png', width='600', style='padding-left:100px')
+  br
+

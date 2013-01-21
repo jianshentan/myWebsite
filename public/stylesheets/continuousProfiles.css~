@@ -1,0 +1,33 @@
+#continuousProfiles{}
+
+#continuousProfiles span, a{
+  color: pink;
+}
+
+#continuousProfiles td{
+  vertical-align: top;
+}
+
+#continuousProfiles .image{
+}
+
+#continuousProfiles .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#continuousProfiles #descriptionTable{
+  margin-left: 10px;
+  border-spacing: 0px;
+}
+
+#continuousProfiles #descriptionTable td{
+  text-align: center;
+  width: 160px;
+}
+
+#continuousProfiles #descriptionTable #tightRow{
+  height: 8px;
+}
+
+

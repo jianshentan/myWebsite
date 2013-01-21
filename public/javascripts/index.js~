@@ -1,0 +1,5 @@
+$(document).ready(function(){
+  $("#enterButton").click(function(){
+    $('body').load('/main');
+  });
+});

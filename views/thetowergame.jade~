@@ -1,0 +1,60 @@
+#thetowergame
+  script(type='text/javascript', src='/javascripts/thetowergame.js')
+
+  div <b>thetowergame</b>, 2012 spring
+  br
+  div play it at <a href='http://www.thetowergame.com'>www.thetowergame.com</a>
+  div read about it <a href=/assets/thetowergame/gameover.pdf'>here</a>
+  br
+  div this piece was made in collaboration with <span id="koji" class='friend'>Koji Yamamoto</span>
+  div the music was created by <span id='lukas' class='friend'>Lukas Bentel</span>, my bearded man friend
+  br
+  table
+    tr
+      td
+        <iframe id="video" src="http://player.vimeo.com/video/41062223?title=0&amp;byline=0&amp;portrait=0&amp;color=2E5C9A" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+      td.description
+        div The Tower Game is a game about games, the player (both in and out of the game) and dying in games 
+        br
+        div This game was written in Javascript using HTML5 (canvas) and SoundManager2
+        br
+        div The intended length of gameplay is 15-20 minutes
+
+  br
+  table
+    tr
+      td
+        img(src='/assets/thetowergame/thetowergame02.png', height='70')
+      td.summaryDiv
+        div#header <em>Game Description </em>
+        br
+        div.summary In this game, the player encounters dead bodies that look identical to himself. As he makes his way up, with the intention of rescuing the princess, he discovers more about these dead bodies, who they are and how they've died. While the player learns about previous attempts to climb the tower, the gamer, separate from the player, contemplates their experience playing the game. The gamer is confronted with an ambiguous point of entry and ghosts who entertain the idea of there being other players in the same game. Concurrently, the game draws from conventional gaming elements (such as battles, collecting items, character growth) to create the expectation of death. Ironically, the player, surrounded by death (and ghosts) and the expectation of death, is unable to die (at least not until the end). This separates gameplay (the gamer's "death") from content (the player's encounters with death) and changes it from being a consequence of gameplay to the subject of the game.
+        br
+        div.summary For a more indepth read about games and fine art, download the pdf <a href='/assets/thetowergame/gameover.pdf'>here</a>
+      td
+        img(src='/assets/thetowergame/thetowergame03.png', height='70')
+
+  br
+  hr
+  br
+  div Screenshots:
+  table
+    tr
+      td
+        img(class='image', src='/assets/thetowergame/thetowergame01.png', height='220')
+      td
+        img(class='image', src='/assets/thetowergame/thetowergame04.png', height='220')
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/thetowergame/thetowergame05.png', width='650')
+    tr
+      td
+        img(class='image', src='/assets/thetowergame/thetowergame08.png', width='650')
+    tr
+      td
+        img(class='image', src='/assets/thetowergame/thetowergame09.png', width='650')
+    tr
+      td
+        img(class='image', src='/assets/thetowergame/thetowergame07.png', width='650')

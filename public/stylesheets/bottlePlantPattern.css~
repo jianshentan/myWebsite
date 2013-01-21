@@ -1,0 +1,21 @@
+#bottlePlantPattern{}
+
+#exhibitionOne a{
+  color: pink;
+}
+
+#exhibitionOne td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#exhibitionOne .image{
+  padding-left: 20px;
+}
+
+#exhibitionOne .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+

@@ -1,0 +1,161 @@
+#exhibitionOne
+  div <b>"A Culture of Entitlement"</b>, Beijing, 2011 October 22nd
+  div Inaugural solo exhibition at the Atkins & Ai Gallery
+  br
+  div click <a href="/assets/exhibitionOne/exhibitionOneCatalogue.pdf">here</a> to download the catalogue
+  div "A Culture of Entitlement" in ASIART Archive: <a href="http://www.aaa.org.hk/Collection/Details/45650">http://www.aaa.org.hk/Collection/Details/45650</a>
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionOne/exhibitionOne01.png', width='400')
+      td.description
+        div An Introduction to J. S. Tan/ 
+        div 陳建升 (J. S. Tan) 簡介 - Ian Charles STEWART 
+        br
+        div 'A Culture of Entitlement'/ 
+        div 畫冊隨筆－'權利的文化' - Emily DE WOLFE PETTIT 
+        br 
+        div Interview with J. S. Tan/ 
+        div 訪談 陳建升 (J. S. Tan) 和裴衣珊 (Emily de Wolfe Pettit) 
+        br
+        div Catalogue Essay in Full: 'A Culture of Entitlement' - 
+        div Emily DE WOLFE PETTIT
+        br
+        br
+        img(src='/assets/exhibitionOne/exhibitionOne02.png', width='340')
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionOne/exhibitionOne06.png', width='550')
+      td.description
+        div The Glutton
+        div 150 X 200cm
+        div 2010
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionOne/exhibitionOne03.png', width='290')
+      td
+        img(class='image', src='/assets/exhibitionOne/exhibitionOne04.png', width='345')
+      td.description
+        div (left)
+        div Smoking Girl
+        div 150 X 90cm
+        div 2010
+        br
+        div (right)
+        div Kneeling Man
+        div 160 X 100cm
+        div 2010
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionOne/exhibitionOne05.png', width='450')
+      td.description
+        div Some Children In White
+        div 200 X 150cm
+        div 2010
+
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne07.png', width='600')
+        td.description
+          div Four People In A Room
+          div 140 X 100cm, 180 X 100cm, 140 X 100cm
+          div 2010
+  //- 
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne08.png', width='290')
+        td.description
+          div Nun and Child 
+          div 180 X 100cm
+          div 2010
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionOne/exhibitionOne09.png', width='530')
+      td.description
+        div Anna 
+        div 160 X 90cm (each)
+        div 2009
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne10.png', width='530')
+        td.description
+          div Tied Up
+          div 200 X 120cm (each)
+          div 2010
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne11.png', width='330')
+        td.description
+          div Red Shoes
+          div 140 X 80cm
+          div 2010
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne12.png', width='270')
+        td.description
+          div Reclining Figure
+          div 60 X 60cm
+          div 2010
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne13.png', width='270')
+        td.description
+          div Girl
+          div 50 X 40cm
+          div 2010
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne14.png', width='270')
+        td.description
+          div Guy With A Bloody Nose
+          div 60 X 50cm
+          div 2010
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne15.png', width='330')
+        td.description
+          div Girl Playing
+          div 140 X 100cm
+          div 2010
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne16.png', width='330')
+        td.description
+          div Woman in Bathtub
+          div 100 X 75cm 
+          div 2010
+  //-
+    table
+      tr
+        td
+          img(class='image', src='/assets/exhibitionOne/exhibitionOne17.png', width='250')
+        td.description
+          div Heil Hitler
+          div 40 X 30cm
+          div 2010
+          div Woodcut
+
+  div *download the catalogue for a more complete representation of the work in the exhibition
+  br

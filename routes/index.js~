@@ -1,0 +1,12 @@
+exports.index = function(req, res){ res.render('index'); };
+exports.main = function(req, res){ res.render('main'); };
+exports.about = function(req, res){ res.render('about'); };
+exports.exhibitionOne = function(req, res){ res.render('exhibitionOne'); };
+exports.exhibitionTwo = function(req, res){ res.render('exhibitionTwo'); };
+exports.bottlePlantPattern = function(req, res){ res.render('bottlePlantPattern'); };
+exports.cinderblocks = function(req, res){ res.render('cinderblocks'); };
+exports.thetowergame = function(req, res){ res.render('thetowergame'); };
+exports.continuousProfiles = function(req, res){ res.render('continuousProfiles'); };
+exports.swingSlide = function(req, res){ res.render('swingSlide'); };
+exports.nola = function(req, res){ res.render('nola'); };
+exports.freefoodatbrown = function(req, res){ res.render('freefoodatbrown'); };

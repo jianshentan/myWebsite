@@ -1,0 +1,65 @@
+#continuousProfiles
+  script(type='text/javascript', src='/javascripts/continuousProfiles.js')
+  div <b>Continuous Profiles</b>, 2012 spring
+  br
+  div this piece was made in collaboration with <span id='lukas' class='friend'>Lukas Bentel</span>, my dog-loving bearded buddy
+  br
+  div The Continuous Profiles of:
+  table
+    tr
+      td
+        img(class='image', src='/assets/continuousProfiles/continuousProfiles01.png', width='800')
+  table#descriptionTable
+    tr
+      td /\
+      td /\
+      td /\
+      td /\
+      td /\
+    tr
+      td |
+      td |
+      td |
+      td |
+      td |
+    tr
+      td |
+      td |
+      td |
+      td |
+      td |
+    tr
+      td "Lukas Ubaldo Bentel"
+      td "Smiley Face (Emoticon)"
+      td "Armando Cristian Pérez (AKA Pitbull)"
+      td "Mrs Brown (Mother of Charlie Brown)"
+      td "Jian Shen Tan (JS)"
+
+  br
+  br
+  hr
+  br
+  div <b>Personal Culture</b>, Amanda Hu & Saman Sajasi
+  div October 4th - October 28th, 2012
+  div RISD Museum, Gelman Gallery
+  br
+  div Personal Culture focuses on a selection of works from twenty-nine students with varied backgrounds and disciplines. Our work is united by the need to share a unique perspective with the Rhode Island School of Design and the greater artistic community. Through shared geographies, habits, and histories, we learn from each other. These works are political, cultural, and always personal.
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/continuousProfiles/continuousProfiles02.png', width='500')
+      td.description
+        div Continuous Profiles:
+        br
+        div <em>"This installation portrays images from pop culture in the manner of fine art, parodying Bertelli’s “Continuous Profile of Mussolini (in Italian).” Here, high culture and low culture are sandwiched forcing people to experience them together.  The Continuous Profiles are a reflection on globalization and Internet culture and how they allow everything to be consumed ubiquitously, superficially, and in equal quantity. Culture too becomes a commodity - it is exchangeable and dispensable; high culture is low culture is personal culture."</em>
+        div(style='text-align: right') - Personal Culture
+  br
+  table
+    tr
+      td
+        img
+    
+    
+    
+    

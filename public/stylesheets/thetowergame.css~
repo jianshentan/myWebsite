@@ -1,0 +1,42 @@
+#thetowergame{}
+
+#thetowergame a{
+  color: pink;
+}
+
+#thetowergame span{
+  color: pink;
+} 
+
+#thetowergame td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#thetowergame .image{
+  padding-left: 20px;
+}
+
+#thetowergame .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#thetowergame #video{
+  /*position: relative;
+  left: 50%;
+  margin-left: -375px;  /* this must be the negative half of attr 'width' */
+  width: 590px;
+  height: 330px;
+}
+
+#thetowergame .summaryDiv #summary{
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#thetowergame .summaryDiv #header{
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+#cinderblocks{}
+
+#cinderblocks a{
+  color: pink;
+}
+
+#cinderblocks span{
+  color: pink;
+} 
+
+#cinderblocks td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#cinderblocks .image{
+  padding-left: 20px;
+}
+
+#cinderblocks .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+

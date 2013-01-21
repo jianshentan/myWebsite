@@ -1,0 +1,19 @@
+#freefoodatbrown{}
+
+#freefoodatbrown span, a{
+  color: pink;
+}
+
+#freefoodatbrown td{
+  vertical-align: top;
+  padding-bottom: 10px;
+}
+
+#freefoodatbrown .image{
+  padding-left: 20px;
+}
+
+#freefoodatbrown .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}

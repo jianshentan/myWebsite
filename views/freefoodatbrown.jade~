@@ -1,0 +1,6 @@
+#freefoodatbrown
+  script(type='text/javascript', src='/javascripts/freefoodatbrown.js')
+  
+  div <b>Free Food At Brown</b>, 2012 fall
+  br
+  div this project was made in collaboration with <span id='charles' class='friend'>Charles Yeh</span>, <span id='sam' class='friend'>Sam Jau</span> and <span id='max' class='friend'>Max Song</span>

@@ -1,0 +1,31 @@
+#swingSlide
+  script(type='text/javascript', src='/javascripts/continuousProfiles.js')
+  div <b>Swing & Slide</b>, 2012 spring
+  br
+  div this installation was made in collaboration with <span id='lukas' class='friend'>Lukas Bentel</span>, my furniture making bearded friend 
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/swingSlide/swingSlide01.png', width='500')
+  table 
+    tr
+      td
+        img(class='image', src='/assets/swingSlide/swingSlide02.png', width='500')
+  table
+    tr
+      td
+        img(class='image', src='/assets/swingSlide/swingSlide03.png', width='320')
+  br
+  hr
+  br
+  div proposal images for the installation:
+  br
+  table
+    tr
+      td
+        img(class='image', src='/assets/swingSlide/swingSlide04.png', width='445')
+      td
+        img(class='image', src='/assets/swingSlide/swingSlide05.png', width='200')
+      td.description
+
