@@ -1,0 +1,22 @@
+#dothopper{}
+
+#dothopper a{
+  color: pink;
+}
+
+#dothopper td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#dothopper .image{
+  padding-left: 20px;
+}
+
+#dothopper .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+

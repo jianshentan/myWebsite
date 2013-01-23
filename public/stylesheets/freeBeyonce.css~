@@ -1,0 +1,22 @@
+#bottlePlantPattern{}
+
+#bottlePlantPattern a{
+  color: pink;
+}
+
+#bottlePlantPattern td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#bottlePlantPattern .image{
+  padding-left: 20px;
+}
+
+#bottlePlantPattern .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+

@@ -1,3 +1,4 @@
 $(document).ready(function(){
-  clickOnFriend($(".friend"), "lukas"); 
+  changePage("cinderblocks");
+  clickOnFriend($("#lukas"), "lukas"); 
 });

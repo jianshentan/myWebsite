@@ -1,0 +1,4 @@
+$(document).ready(function(){
+  changePage("continuousProfiles");
+  clickOnFriend($("#lukas"), "lukas"); 
+});

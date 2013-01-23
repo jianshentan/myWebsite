@@ -1,0 +1,22 @@
+#detentionTable {}
+
+#detentionTable a{
+  color: pink;
+}
+
+#detentionTable td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#detentionTable .image{
+  padding-left: 20px;
+}
+
+#detentionTable .description{
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+

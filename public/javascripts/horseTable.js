@@ -2,7 +2,7 @@ $(document).ready(function(){
   for(var i=1; i<17; i++){
     var foo = (function(j){
       var bar = function(){
-        $("#horseTableGridCover"+j).css({"opacity":"0.2"});
+        $("#horseTableGridCover"+j).css({"opacity":"0.6"});
         $("#horseTableGridDescription"+j).css({"opacity":"1.0",
                                                "z-index":"100"});
       }

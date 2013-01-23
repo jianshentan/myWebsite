@@ -41,7 +41,7 @@
 
 #horseTable #horseTableGrid tr td .horseTableGridCover{
   z-index: 10;
-  background-color: black;
+  background-color: white;
   opacity: 0.0;
   position: absolute;
   width: 100%;
@@ -83,6 +83,10 @@
   height: 100%;
   top: 0px;
   left: 0px; 
+}
+
+#horseTable #diagramTable #gangnamStyleShades{
+  visibility: hidden;
 }
  
 #horseTable #diagramTable #hoverShadesOne{

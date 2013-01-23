@@ -1,0 +1,22 @@
+#freeBeyonce{}
+
+#freeBeyonce a{
+  color: pink;
+}
+
+#freeBeyonce td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#freeBeyonce .image{
+  padding-left: 20px;
+}
+
+#freeBeyonce .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+

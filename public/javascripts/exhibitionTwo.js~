@@ -7,10 +7,12 @@ var imageInfo = [{"src":"/assets/exhibitionTwo/exhibitionTwo_chiming01.png",
                   "title":"Ballet Dream I",
                   "size":"60 X 60cm",
                   "year":"2012"},
+                 /*
                  {"src":"/assets/exhibitionTwo/exhibitionTwo_chiming03.png",
                   "title":"Friendship II",
                   "size":"50 X 40cm",
                   "year": "2010"},
+                 */
                  {"src":"/assets/exhibitionTwo/exhibitionTwo_chiming04.png",
                   "title":"Ballet Dream II",
                   "size":"80cm D",
@@ -39,6 +41,8 @@ function updateWork(){
 }
 
 $(document).ready(function(){
+  changePage("exhibitionTwo");
+
   console.log("HERE"); 
   hoverOn($("#prevImage"), "grey", "black");
   hoverOn($("#nextImage"), "grey", "black");

@@ -41,7 +41,6 @@ function updateWork(){
 }
 
 $(document).ready(function(){
-  console.log("HERE"); 
   hoverOn($("#prevImage"), "grey", "black");
   hoverOn($("#nextImage"), "grey", "black");
 

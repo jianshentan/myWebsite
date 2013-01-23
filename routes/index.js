@@ -11,3 +11,6 @@ exports.swingSlide = function(req, res){ res.render('swingSlide'); };
 exports.nola = function(req, res){ res.render('nola'); };
 exports.freefoodatbrown = function(req, res){ res.render('freefoodatbrown'); };
 exports.horseTable = function(req, res){ res.render('horseTable'); };
+exports.detentionTable = function(req, res){ res.render('detentionTable'); };
+exports.dothopper = function(req, res){ res.render('dothopper'); };
+exports.freeBeyonce = function(req, res){ res.render('freeBeyonce'); };

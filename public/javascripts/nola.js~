@@ -1,4 +1,6 @@
-$(document).ready(function(){
-  clickOnFriend($("#kevin"), "koji");
+$(document).ready(function(){ 
+  changePage("nola"); 
+
+  clickOnFriend($("#kevin"), "kevin");
   clickOnFriend($("#lukas"), "lukas");
 });

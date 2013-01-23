@@ -42,6 +42,9 @@ app.get('/swingSlide', routes.swingSlide);
 app.get('/nola', routes.nola);
 app.get('/freefoodatbrown', routes.freefoodatbrown);
 app.get('/horseTable', routes.horseTable);
+app.get('/detentionTable', routes.detentionTable);
+app.get('/dothopper', routes.dothopper);
+
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log("Express server listening on port " + app.get('port'));

@@ -10,12 +10,10 @@
         img(class='image', src='/assets/swingSlide/swingSlide01.png', width='500')
   table 
     tr
+      td 
+        img(class='image', src='/assets/swingSlide/swingSlide03.png', height='350')
       td
-        img(class='image', src='/assets/swingSlide/swingSlide02.png', width='500')
-  table
-    tr
-      td
-        img(class='image', src='/assets/swingSlide/swingSlide03.png', width='320')
+        img(class='image', src='/assets/swingSlide/swingSlide02.png', height='350')
   br
   hr
   br
@@ -27,5 +25,4 @@
         img(class='image', src='/assets/swingSlide/swingSlide04.png', width='445')
       td
         img(class='image', src='/assets/swingSlide/swingSlide05.png', width='200')
-      td.description
 

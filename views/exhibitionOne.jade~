@@ -1,4 +1,5 @@
 #exhibitionOne
+  script(type='text/javascript', src='/javascripts/exhibitionOne.js')
   div <b>"A Culture of Entitlement"</b>, Beijing, 2011 October 22nd
   div Inaugural solo exhibition at the Atkins & Ai Gallery
   br
@@ -37,7 +38,7 @@
       td
         img(class='image', src='/assets/exhibitionOne/exhibitionOne03.png', width='290')
       td
-        img(class='image', src='/assets/exhibitionOne/exhibitionOne04.png', width='345')
+        img(class='image', src='/assets/exhibitionOne/exhibitionOne04.png', width='340')
       td.description
         div (left)
         div Smoking Girl

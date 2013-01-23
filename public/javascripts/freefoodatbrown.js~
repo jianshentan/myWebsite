@@ -1,5 +1,5 @@
 $(document).ready(function(){
+  changePage("freefoodatbrown");
   clickOnFriend($("#charles"), "charles");
   clickOnFriend($("#sam"), "sam");
-  clickOnFriend($("#max"), "max");
 });
