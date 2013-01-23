@@ -80,6 +80,14 @@
         div .. and more
         div 160 X 123cm
         div 2011
+  table
+    tr
+      td
+        img(class='image', src='/assets/exhibitionTwo/exhibitionTwo08.png', width='480')
+      td.description
+        div ..
+        div 160 X 123cm
+        div 2011
 
        
   div *download the catalogue for a more complete representation of the works in the exhibition

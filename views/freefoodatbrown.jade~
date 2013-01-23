@@ -29,6 +29,8 @@
   br
   hr      
   br
+  div Design:
+  br
   img(src='/assets/freefoodatbrown/freefoodatbrown01.png', width='800')
 
   br

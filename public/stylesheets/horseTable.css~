@@ -59,7 +59,7 @@
   height: 100%;
   top: 0px;
   left: 0px;
-  color: white;
+  color: black;
 }
 
 #horseTable #horseTableGrid .horseTableGridDescription div{

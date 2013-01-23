@@ -1,4 +1,6 @@
 #bottlePlantPattern
+  script(type='text/javascript', src='javascripts/bottlePlantPattern.js')
+
   div <b>Bottle. Plant. Pattern.</b> 2011 spring
   br
   div about the work: 

@@ -1,8 +1,9 @@
 doctype 5
 html
   head
-    title .js
+    title &nbsp js
     link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/stylesheets/index.css')
     link(rel='stylesheet', href='/stylesheets/exhibitionOne.css')
     link(rel='stylesheet', href='/stylesheets/exhibitionTwo.css')
     link(rel='stylesheet', href='/stylesheets/bottlePlantPattern.css')

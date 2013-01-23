@@ -1,5 +1,4 @@
 #horseTable
-  script(type='text/javascript', src='/javascripts/horseTable.js')
   div <b> Horse Table </b>, 2012 fall
   br
 
@@ -95,6 +94,20 @@
           div Pollock
 
   br
+  hr
+  br
+  table#photoTable
+    tr
+      td
+        img(src='/assets/horseTable/horseTablePhoto01.png', width='380')
+      td
+        img(src='/assets/horseTable/horseTablePhoto02.png', width='380')
+    tr
+      td(colspan='2')
+        img(src='/assets/horseTable/horseTablePhoto03.png', width='550')
+
+  br
+  br
   table#diagramTable
     tr
       td
@@ -110,7 +123,9 @@
         img(id='gangnamStyleShades', src='/assets/horseTable/horseTableScaleDiagramShades.png', width='360')
         div(id='hoverShadesOne', class='hoverShades')
         div(id='hoverShadesTwo', class='hoverShades')
+        div(id='hoverShadesThree', class='hoverShades')
       td.ortho
         img(src='/assets/horseTable/horseTableOrtho.png', width='360')
 
 
+  script(type='text/javascript', src='/javascripts/horseTable.js')

@@ -41,9 +41,9 @@
   table
     tr
       td
-        img(class='image', src='/assets/thetowergame/thetowergame01.png', height='220')
+        img(class='image', src='/assets/thetowergame/thetowergame01.png', height='200')
       td
-        img(class='image', src='/assets/thetowergame/thetowergame04.png', height='220')
+        img(class='image', src='/assets/thetowergame/thetowergame04.png', height='200')
   br
   table
     tr

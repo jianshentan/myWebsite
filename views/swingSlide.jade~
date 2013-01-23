@@ -1,5 +1,5 @@
 #swingSlide
-  script(type='text/javascript', src='/javascripts/continuousProfiles.js')
+  script(type='text/javascript', src='/javascripts/swingSlide.js')
   div <b>Swing & Slide</b>, 2012 spring
   br
   div this installation was made in collaboration with <span id='lukas' class='friend'>Lukas Bentel</span>, my furniture making bearded friend 

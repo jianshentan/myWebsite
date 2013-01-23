@@ -67,6 +67,10 @@
   margin-top: 100px;
 } 
 
+#horseTable #photoTable{
+  border-spacing: 20px;
+}
+
 #horseTable #diagramTable{
   width: 100%;
   border-right: 40px;

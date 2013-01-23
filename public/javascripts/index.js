@@ -7,6 +7,20 @@ function clickThumb(page){
 
 $(document).ready(function(){
   console.log("PAGE: " + window.location.href + " is ready");
+  
+  $("#about").hover(function(){
+    $(this).css({"color": "pink",
+                 "cursor": "pointer"});
+  }, function(){
+    $(this).css({"color":"black", 
+                 "cursor":"auto"});
+  });
+
+  $("#about").click(function(){
+    currPage = "about";
+    $('body').load('/main');
+  });
+
   clickThumb("dothopper");
   clickThumb("freeBeyonce");
   clickThumb("horseTable");
@@ -28,4 +42,6 @@ $(document).ready(function(){
     $(this).css({"opacity": "0.0",
                  "cursor":"auto"});
   });
+
+  
 });

@@ -3,7 +3,7 @@
 
   div <b>Cinderblocks</b>, 2010 fall
   br
-  div this piece was made in collaboration with <span class='friend'>Lukas Bentel</span>, a young and talented bearded man
+  div this piece was made in collaboration with <span id='lukas' class='friend'>Lukas Bentel</span>, a young and talented bearded man
   div it is a piece that has to do with: modularity, decay, repetition, environment, and other such stuff
   br
   
