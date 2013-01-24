@@ -88,7 +88,7 @@
         div(id='horseTableGridDescription15', class='horseTableGridDescription')
           div cow hide 
       td
-        img(id='horseTableGrid16', class='horseTableGridImage', src='/assets/horseTable/horsetableGrid16.png', width='190')
+        img(id='horseTableGrid16', class='horseTableGridImage', src='/assets/horseTable/horseTableGrid16.png', width='190')
         div(id='horseTableGridCover16', class='horseTableGridCover')
         div(id='horseTableGridDescription16', class='horseTableGridDescription')
           div Pollock
