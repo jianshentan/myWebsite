@@ -1,4 +1,5 @@
 #about
+  script(type='text/javascript/', src='/javascripts/about.js')
   div <b> About </b>
 
   br 

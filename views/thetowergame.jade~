@@ -1,5 +1,4 @@
 #thetowergame
-  script(type='text/javascript', src='/javascripts/thetowergame.js')
 
   div <b>thetowergame</b>, 2012 spring
   br
@@ -58,3 +57,5 @@
     tr
       td
         img(class='image', src='/assets/thetowergame/thetowergame07.png', width='650')
+
+  script(type='text/javascript', src='/javascripts/thetowergame.js')

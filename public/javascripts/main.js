@@ -18,15 +18,15 @@ var friends = {"lukas":   {"image":"/assets/util/lukasPortrait.png",
                            "website":"http://cargocollective.com/kevinkwiesner"},
 
                "sam":     {"image":"/assets/util/samPortrait.png",
-                           "poem":"<div>this is a poem for sam</div>"+
-                                  "<div>line 2 of poerm for sam</div>"+
-                                  "<div>last line of porm for sam</div>",
+                           "poem":"<div>a strong designer</div>"+
+                                  "<div>UI UX, he knows it</div>"+
+                                  "<div>an efficient man</div>",
                            "website":"http://portfolios.risd.edu/samjau"},
 
                "charles": {"image":"/assets/util/charlesPortrait.png",
-                           "poem":"<div>this is a poem for charles</div>"+
-                                  "<div>line 2 of the poem for charles</div>"+
-                                  "<div>last line of the poem for him</div>",
+                           "poem":"<div>the game master charles</div>"+
+                                  "<div>fast with his fingers and mind</div>"+
+                                  "<div>good for winning games</div>",
                            "website":"http://www.eactiv.com/"}
               };
 
