@@ -67,8 +67,12 @@
   margin-top: 100px;
 } 
 
-#horseTable .photoTable{
+#horseTable #photoTable{
   border-spacing: 20px;
+}
+
+#horseTable #photoTable #photoDescription{
+  padding-top: 100px;
 }
 
 #horseTable #diagramTable{
