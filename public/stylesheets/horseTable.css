@@ -25,6 +25,12 @@
   border-spacing: 20px;
 }
 
+#horseTable #horseTableGrid .cellWrapper{
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
 #horseTable #horseTableGrid tr td{
   position: relative; 
   width: 190px;
@@ -74,6 +80,12 @@
 #horseTable #diagramTable{
   width: 100%;
   border-right: 40px;
+}
+
+#horseTable #diagramTable .cellWrapper{
+  position: relative;
+  height: 289px;
+  width: 100%;
 }
 
 #horseTable #diagramTable td{
