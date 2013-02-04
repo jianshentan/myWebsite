@@ -1,0 +1,45 @@
+#andyGlitch
+  div <b>Andy Glitch</b>, fall 2012
+   
+  br
+  table
+    tr
+      td
+        img(src='/assets/andyGlitch/andyGlitch01.png', width='200')
+      td#projectDescription
+        div These images were made for my computer graphics class with Andy Van Dam. The assignment was to use the image's pixel information to perform certain tasks. Some of the more interesting onces included implementing Edge Detection, Blur, and Scaling Up/Down. Of course all my testing was done on Andy's portrait - as per class tradition. These images were created during the process of doing this assignment. Because all pixel manipulations were performed within a nested for-loop (for each column, for each row), a single mistake in the algorithm could dramatically and usually uniformly affect every single pixel in the image. So here are some examples of that! 
+        br
+        div (these are all implemented in C++ with the help of Qt)
+        br
+        div (purple andy was created in attempt of implementing "Invert Colors")
+
+  br
+  hr
+  br
+  div Scale 
+  div This implementation of scale was done using a Gaussian filter. Here are my attempts: 
+  table
+    tr
+      td
+        img(class='image', src='/assets/andyGlitch/andyGlitch02.png', width='400')
+      td
+        img(class='image', src='/assets/andyGlitch/andyGlitch04.png', width='400')
+
+  br
+  hr
+  br
+  div Blur
+  div This filter was implemented by taking a weighted average over an area. The weights are also determined by using a Gaussian kernal. Here are my attempts:
+  table 
+    tr
+      td
+        img(class='image', src='/assets/andyGlitch/andyGlitch03.png', height='305')
+      td
+        img(class='image', src='/assets/andyGlitch/andyGlitch05.png', height='305')
+
+
+  br
+  * of course, I eventually managed to implement all these features successfully :)
+  br
+
+  script(type='text/javascript', src='/javascripts/andyGlitch.js')

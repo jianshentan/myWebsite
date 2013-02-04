@@ -33,7 +33,7 @@ block content
             div.cover
               div Detention Table
 
-        td(id='andyGlitchThumb', class='thumb')
+        td(id='andyGlitch', class='thumb')
           div.cellWrapper
             img(class='image', id='andyGlitchImage', src='/assets/index/i_andyGlitch.png')
             div.cover

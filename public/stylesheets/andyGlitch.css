@@ -1,0 +1,26 @@
+#andyGlitch{}
+
+#andyGlitch a{
+  color: pink;
+}
+
+#andyGlitch td{
+  vertical-align: top;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#andyGlitch .image{
+  padding-right: 20px;
+}
+
+#andyGlitch .description{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#andyGlitch #projectDescription{
+  padding-left: 40px;
+  padding-top: 35px;
+}
+
