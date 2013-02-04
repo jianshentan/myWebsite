@@ -122,4 +122,5 @@ function initializeNavbar(){
   clickListener($("#n_detentionTable"), $("#mainContent"), "detentionTable");
   clickListener($("#n_dothopper"), $("#mainContent"), "dothopper");
   clickListener($("#n_freeBeyonce"), $("#mainContent"), "freeBeyonce");
+  clickListener($("#n_heBeGlitchin"), $("#mainContent"), "heBeGlitchin");
 }

@@ -25,6 +25,7 @@ $(document).ready(function(){
   clickThumb("freeBeyonce");
   clickThumb("horseTable");
   clickThumb("detentionTable");
+  clickThumb("heBeGlitchin");
   clickThumb("freefoodatbrown");
   clickThumb("nola");
   clickThumb("thetowergame");

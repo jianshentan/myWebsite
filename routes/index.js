@@ -14,3 +14,4 @@ exports.horseTable = function(req, res){ res.render('horseTable'); };
 exports.detentionTable = function(req, res){ res.render('detentionTable'); };
 exports.dothopper = function(req, res){ res.render('dothopper'); };
 exports.freeBeyonce = function(req, res){ res.render('freeBeyonce'); };
+exports.heBeGlitchin = function(req, res){ res.render('heBeGlitchin'); };
