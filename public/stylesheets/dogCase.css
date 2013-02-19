@@ -1,0 +1,30 @@
+#dogCase{}
+
+#dogCase span, a{
+  color: pink;
+  text-decoration: none;
+}
+
+#dogCase #dogCaseIllustration {
+  position: relative;
+  height: 720px;
+}
+
+#dogCase #dogCaseIllustration #illustration{
+  position: absolute;
+}
+
+#dogCase #dogCaseIllustration #description {
+  position: absolute;
+  z-index: 101;
+}
+
+#dogCase table {
+  border-spacing: 0px;
+}
+
+#dogCase .image {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}

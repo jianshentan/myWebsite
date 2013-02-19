@@ -15,3 +15,4 @@ exports.detentionTable = function(req, res){ res.render('detentionTable'); };
 exports.dothopper = function(req, res){ res.render('dothopper'); };
 exports.freeBeyonce = function(req, res){ res.render('freeBeyonce'); };
 exports.andyGlitch = function(req, res){ res.render('andyGlitch'); };
+exports.dogCase = function(req, res){ res.render('dogCase'); };

@@ -46,6 +46,7 @@ app.get('/detentionTable', routes.detentionTable);
 app.get('/dothopper', routes.dothopper);
 app.get('/freeBeyonce', routes.freeBeyonce);
 app.get('/andyGlitch', routes.andyGlitch);
+app.get('/dogCase', routes.dogCase);
 
 
 http.createServer(app).listen(app.get('port'), function(){

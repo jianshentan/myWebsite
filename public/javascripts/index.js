@@ -35,6 +35,7 @@ $(document).ready(function(){
   clickThumb("cinderblocks");
   clickThumb("exhibitionTwo");
   clickThumb("exhibitionOne"); 
+  clickThumb("dogCase");
 
   $(".cover").hover(function(){
     $(this).css({"opacity": "0.8",

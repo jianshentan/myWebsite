@@ -123,4 +123,5 @@ function initializeNavbar(){
   clickListener($("#n_dothopper"), $("#mainContent"), "dothopper");
   clickListener($("#n_freeBeyonce"), $("#mainContent"), "freeBeyonce");
   clickListener($("#n_andyGlitch"), $("#mainContent"), "andyGlitch");
+  clickListener($("#n_dogCase"), $("#mainContent"), "dogCase");
 }
