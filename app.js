@@ -47,6 +47,7 @@ app.get('/dothopper', routes.dothopper);
 app.get('/freeBeyonce', routes.freeBeyonce);
 app.get('/andyGlitch', routes.andyGlitch);
 app.get('/dogCase', routes.dogCase);
+app.get('/concreteComfort', routes.concreteComfort);
 
 
 http.createServer(app).listen(app.get('port'), function(){

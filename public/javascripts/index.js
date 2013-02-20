@@ -36,6 +36,7 @@ $(document).ready(function(){
   clickThumb("exhibitionTwo");
   clickThumb("exhibitionOne"); 
   clickThumb("dogCase");
+  clickThumb("concreteComfort");
 
   $(".cover").hover(function(){
     $(this).css({"opacity": "0.8",

@@ -1,0 +1,14 @@
+#concreteComfort{}
+
+#concreteComfort span, a{
+  color: pink;
+  text-decoration: none;
+}
+
+#concreteComfort #descriptionTable {
+  position: relative;
+  left: 50px;
+  width: 700px;
+  border-spacing: 10px;
+}
+
