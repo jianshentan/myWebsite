@@ -14,9 +14,46 @@
   padding-left: 20px;
 }
 
-#dothopper .description{
-  padding-left: 20px;
-  padding-top: 20px;
+#dothopper #webTable{
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+#dothopper #webTable td{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 0px;
+}
+
+#dothopper #webTable .cover {
+ position: relative; 
+ width:700px;
+ height:780px;
+}
+
+#dothopper #webTable .cover .cellWrapper {
+ position: relative; 
+ width: 100%;
+ height: 100%;
 }
 
 
+#dothopper #webTable .cover .cellWrapper #default {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#dothopper #webTable .cover .cellWrapper #hover {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  opacity: 0.0;
+}
+
+#dothopper #mobileTable {
+  border-spacing: 15px;
+}
